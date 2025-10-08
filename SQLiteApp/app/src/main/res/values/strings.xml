@@ -1,0 +1,47 @@
+
+<resources>
+    <!-- App name -->
+    <string name="app_name">Catálogo Musical</string>
+
+    <!-- Menú principal -->
+    <string name="titulo_menu">Catálogo Musical</string>
+    <string name="btn_ver_canciones">Ver Canciones</string>
+    <string name="btn_ver_albumes">Ver Álbumes</string>
+    <string name="btn_ver_artistas">Ver Artistas</string>
+
+    <!-- Pantalla Canciones -->
+    <string name="titulo_canciones">Catálogo de Canciones</string>
+    <string name="hint_buscar_cancion">Buscar por título</string>
+    <string name="spinner_genero">Género</string>
+    <string name="spinner_artista">Artista</string>
+    <string name="spinner_album">Álbum</string>
+    <string name="label_genero">Género:</string>
+    <string name="label_duracion">Duración:</string>
+    <string name="label_album">Álbum:</string>
+    <string name="label_artista">Artista:</string>
+
+    <!-- Pantalla Álbumes -->
+    <string name="titulo_albumes">Catálogo de Álbumes</string>
+    <string name="hint_buscar_album">Buscar por título</string>
+    <string name="label_anio">Año:</string>
+
+    <!-- Pantalla Artistas -->
+    <string name="titulo_artistas">Catálogo de Artistas</string>
+    <string name="hint_buscar_artista">Buscar por nombre</string>
+    <string name="label_pais">País:</string>
+
+    <!-- Géneros musicales -->
+    <string name="genero_todos">Todos</string>
+    <string name="genero_rock">Rock</string>
+    <string name="genero_pop">Pop</string>
+
+    <!-- Artistas -->
+    <string name="artista_todos">Todos</string>
+    <string name="artista_coldplay">Coldplay</string>
+    <string name="artista_shakira">Shakira</string>
+
+    <!-- Álbumes -->
+    <string name="album_todos">Todos</string>
+    <string name="album_parachutes">Parachutes</string>
+    <string name="album_laundry_service">Laundry Service</string>
+</resources>
